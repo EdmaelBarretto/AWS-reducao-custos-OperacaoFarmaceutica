@@ -14,7 +14,7 @@ Este relatório apresenta a implementação de serviços AWS na operação farma
 - Garantir maior confiabilidade e segurança dos dados  
 
 O projeto está documentado em um repositório GitHub, permitindo acompanhamento, versionamento e futuras melhorias:  
-**Repositório GitHub:** [https://github.com/edmaelbarreto/aws-reducao-custos-farmaceutica](https://github.com/edmaelbarreto/aws-reducao-custos-farmaceutica)
+**Repositório GitHub:** https://github.com/EdmaelBarretto/AWS-reducao-custos-OperacaoFarmaceutica.git
 
 ---
 
@@ -49,7 +49,7 @@ O projeto foi dividido em 3 etapas principais:
 ## Arquitetura da Solução
 A arquitetura geral do projeto foi planejada para **alta disponibilidade, segurança e eficiência de custos**:
 
-![Arquitetura AWS](./assets/arquitetura-aws.png)
+![Arquitetura AWS](assets/assetsarquitetura-aws.png.png)
 
 **Componentes principais:**
 - Bucket S3 para arquivos e backups  
@@ -79,14 +79,6 @@ A implementação dos serviços AWS na operação farmacêutica trouxe os seguin
 - Alta disponibilidade e confiabilidade dos dados  
 
 Recomenda-se **a continuidade do uso dessas ferramentas**, monitoramento constante e avaliação periódica de novos serviços AWS para otimização adicional.
-
----
-
-## Anexos
-- Manuais de configuração AWS  
-- Planilhas de custos antes e depois da implementação  
-- Diagramas de arquitetura da infraestrutura  
-- Scripts de deploy e templates Terraform  
 
 ---
 
